@@ -10,7 +10,6 @@ AllowUsers root
 
 执行
 /etc/rc.d/sshd restart
-
 ```
 
 ### **修改系统时间**
@@ -18,5 +17,4 @@ AllowUsers root
 ```
 ntpdate time.windows.com
 date
-
 ```

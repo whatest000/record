@@ -12,3 +12,11 @@ AllowUsers root
 /etc/rc.d/sshd restart
 
 ```
+
+### **修改系统时间**
+
+```
+ntpdate time.windows.com
+date
+
+```

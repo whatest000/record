@@ -11,4 +11,3 @@ getconf LONG_BIT
 file /bin/ls
 
 ```
-
